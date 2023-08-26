@@ -1,6 +1,6 @@
 # Go Learning Exercises Repository
 
-Welcome to my Go Learning Exercises Repository! íº€
+Welcome to my Go Learning Exercises Repository! ðŸš€
 
 This repository will be a collection of exercises, projects, and code snippes that I've created while learning the Gprograming language. Whether ou'rea beginner or an experienced programmer, I hope you find something useful and inspiring here.
 
